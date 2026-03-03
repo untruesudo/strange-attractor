@@ -30,7 +30,7 @@ open strange-attractor/index.html
 ```
 
 Or use it directly via GitHub Pages:
-**[UNTRUESUDO.github.io/strange-attractor](https://untruesudo.github.io/strange-attractor)**
+**[untruesudo.github.io/strange-attractor](https://untruesudo.github.io/strange-attractor)**
 
 ## 🎮 Controls
 

@@ -2,7 +2,7 @@
 
 An interactive strange attractor visualizer built with vanilla HTML5 Canvas and JavaScript. Renders Clifford, Peter de Jong, and Bedhead attractors using log-density histogram rendering across up to 3 million points. Zero dependencies. Single file.
 
-![Strange Attractor Preview](preview.png)
+![Strange Attractor Preview](Preview.png)
 
 ## ✨ Features
 

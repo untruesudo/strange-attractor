@@ -23,14 +23,14 @@ No install, no build step. Just open the file:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/strange-attractor.git
+git clone https://github.com/untruesudo/strange-attractor.git
 
 # Open in browser
 open strange-attractor/index.html
 ```
 
 Or use it directly via GitHub Pages:
-**[YOUR_USERNAME.github.io/strange-attractor](https://your-username.github.io/strange-attractor)**
+**[UNTRUESUDO.github.io/strange-attractor](https://untruesudo.github.io/strange-attractor)**
 
 ## 🎮 Controls
 
